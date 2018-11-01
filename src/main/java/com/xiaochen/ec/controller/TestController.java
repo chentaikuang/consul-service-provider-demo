@@ -1,4 +1,4 @@
-package com.nome.ec.controller;
+package com.xiaochen.ec.controller;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
